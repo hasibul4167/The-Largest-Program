@@ -1,0 +1,15 @@
+F:\c#\c# program to find the largest three numbers\bin\Debug\net6.0\c# program to find the largest three numbers.exe
+F:\c#\c# program to find the largest three numbers\bin\Debug\net6.0\c# program to find the largest three numbers.deps.json
+F:\c#\c# program to find the largest three numbers\bin\Debug\net6.0\c# program to find the largest three numbers.runtimeconfig.json
+F:\c#\c# program to find the largest three numbers\bin\Debug\net6.0\c# program to find the largest three numbers.dll
+F:\c#\c# program to find the largest three numbers\bin\Debug\net6.0\c# program to find the largest three numbers.pdb
+F:\c#\c# program to find the largest three numbers\obj\Debug\net6.0\c# program to find the largest three numbers.csproj.AssemblyReference.cache
+F:\c#\c# program to find the largest three numbers\obj\Debug\net6.0\c# program to find the largest three numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\c# program to find the largest three numbers\obj\Debug\net6.0\c# program to find the largest three numbers.AssemblyInfoInputs.cache
+F:\c#\c# program to find the largest three numbers\obj\Debug\net6.0\c# program to find the largest three numbers.AssemblyInfo.cs
+F:\c#\c# program to find the largest three numbers\obj\Debug\net6.0\c# program to find the largest three numbers.csproj.CoreCompileInputs.cache
+F:\c#\c# program to find the largest three numbers\obj\Debug\net6.0\c# program to find the largest three numbers.dll
+F:\c#\c# program to find the largest three numbers\obj\Debug\net6.0\refint\c# program to find the largest three numbers.dll
+F:\c#\c# program to find the largest three numbers\obj\Debug\net6.0\c# program to find the largest three numbers.pdb
+F:\c#\c# program to find the largest three numbers\obj\Debug\net6.0\c# program to find the largest three numbers.genruntimeconfig.cache
+F:\c#\c# program to find the largest three numbers\obj\Debug\net6.0\ref\c# program to find the largest three numbers.dll
